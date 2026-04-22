@@ -110,10 +110,9 @@ https://github.com/Umashankar12345/studentmangement
 | 🌾 [FarmeSupport](https://github.com/Umashankar12345/Farmer-Support) | Platform to help farmers access support & resources | JavaScript | [🔗](https://farmer-support-beta.vercel.app/) |
 [voice-AI-Task-Manager](https://github.com/Umashankar12345/Voice-AI-Task-Manage) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
 
-[studentMangemetn](https://github.com/Umashankar12345/studentmangement) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
+[studentMangemetnt](https://github.com/Umashankar12345/studentmangement) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
 
 ---
-
 ## 📈 Contribution Graph:
 
 <p align="center">
