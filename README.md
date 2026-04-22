@@ -29,13 +29,13 @@
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/umashankar-kumar-134a88269" target="_blank">
+  <a href="https://www.linkedin.com/in/umashankar-kumar-134a88269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Umashankar9572" target="_blank">
+  <a href="https://leetcode.com/u/Umashankar9572/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="mailto:umashankar@gmail.com" target="_blank">
+  <a href="mailto:umashankarkumar9572@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -64,7 +64,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 
 **Mobile & Tools**
 
@@ -73,7 +73,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -101,13 +101,16 @@
 ---
 
 ## 🚀 Featured Projects:
-
+https://github.com/Umashankar12345/studentmangement
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
 | 🏥 [DoctorAppoinment2.0](https://github.com/Umashankar12345/DoctorAppoinment2.0) | Online doctor appointment booking with slot management | JS, Node.js | 🔗 Soon |
-| 🗺️ [Smart-Road-Trip](https://github.com/Umashankar12345/Smart-Road-Trip-plain) | Calculates distance & travel time using Maps API | JavaScript | 🔗 Soon |
+| 🗺️ [Smart-Road-Trip](https://github.com/Umashankar12345/Smart-Road-Trip-plain) | Calculates distance & travel time using Maps API | JavaScript | [🔗](https://smart-road-trip-plain-frontend.vercel.app/) |
 | 🎬 [LiveMovie](https://github.com/Umashankar12345/livemovie) | Online movie ticket booking system | JavaScript | 🔗 Soon |
-| 🌾 [FarmeSupport](https://github.com/Umashankar12345/FARMESUPPORT) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
+| 🌾 [FarmeSupport](https://github.com/Umashankar12345/Farmer-Support) | Platform to help farmers access support & resources | JavaScript | [🔗](https://farmer-support-beta.vercel.app/) |
+[voice-AI-Task-Manager](https://github.com/Umashankar12345/Voice-AI-Task-Manage) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
+
+[studentMangemetn](https://github.com/Umashankar12345/studentmangement) | Platform to help farmers access support & resources | JavaScript | 🔗 Soon |
 
 ---
 
