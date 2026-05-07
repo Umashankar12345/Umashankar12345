@@ -31,7 +31,7 @@
   <img src="https://komarev.com/ghpvc/?username=Umashankar12345&color=58A6FF&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Umashankar12345?label=Followers&style=flat-square&color=58A6FF" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Patna%2C%20Bihar%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Location-Patna%2C%20Bihar%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" /> -->
 </div>
 
 ---
