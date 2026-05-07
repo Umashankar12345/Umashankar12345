@@ -4,7 +4,9 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Web+Apps;⚡+React+%7C+Node.js+%7C+MongoDB;📱+Exploring+Android+Dev+with+Kotlin;💡+Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+Full+Stack+Web+Apps;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;📱+Exploring+Android+Dev+with+Kotlin;💡+Turning+Ideas+Into+Real+Products;🌱+Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -29,7 +31,14 @@
   <img src="https://komarev.com/ghpvc/?username=Umashankar12345&color=58A6FF&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Umashankar12345?label=Followers&style=flat-square&color=58A6FF" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
-  <!-- <img src="https://img.shields.io/badge/Location-Patna%2C%20Bihar%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" /> -->
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼%20Available%20for-Full%20Stack%20Roles-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Response-Within%2024hrs-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝%20Let's-Collaborate-blue?style=for-the-badge"/>
 </div>
 
 ---
@@ -42,7 +51,8 @@
 const umashankar = {
   name: "Umashankar Kumar",
   role: "Full Stack Developer",
-  stack: ["Javascript","React", "Node.js", "Express", "MongoDB"],
+  location: "India 🇮🇳",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
   currentlyLearning: ["Kotlin / Android", "Laravel / PHP"],
   openTo: "Fresher Full Stack Roles 🚀",
   motto: "Code is how I solve problems & build things that matter"
@@ -57,6 +67,28 @@ const umashankar = {
 - ⚡ Fun fact: I debug more than I code — and I enjoy it!
 
 <br clear="right"/>
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile | Focus |
+|----------|---------|-------|
+| 💻 LeetCode | [Umashankar9572](https://leetcode.com/u/Umashankar9572/) | DSA Problem Solving |
+| 🌐 GitHub | [Umashankar12345](https://github.com/Umashankar12345) | 6+ Real World Projects |
+| 💼 LinkedIn | [umashankar-kumar](https://www.linkedin.com/in/umashankar-kumar-134a88269/) | Professional Network |
+
+</div>
+
+---
+
+## 🏅 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Umashankar9572?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats"/>
+</div>
 
 ---
 
