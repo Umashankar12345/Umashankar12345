@@ -4,9 +4,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+Full+Stack+Web+Apps;⚡+React+%7C+Node.js+%7C+MongoDB+%7C+Express;📱+Exploring+Android+Dev+with+Kotlin;💡+Turning+Ideas+Into+Real+Products;🌱+Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Building+Full+Stack+Web+Apps;⚡+React+%7C+Node.js+%7C+MongoDB;📱+Exploring+Android+Dev+with+Kotlin;💡+Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
 <br/>
 
