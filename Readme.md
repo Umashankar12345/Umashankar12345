@@ -42,8 +42,7 @@
 const umashankar = {
   name: "Umashankar Kumar",
   role: "Full Stack Developer",
-  location: "Patna, Bihar 🇮🇳",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
+  stack: ["Javascript","React", "Node.js", "Express", "MongoDB"],
   currentlyLearning: ["Kotlin / Android", "Laravel / PHP"],
   openTo: "Fresher Full Stack Roles 🚀",
   motto: "Code is how I solve problems & build things that matter"
