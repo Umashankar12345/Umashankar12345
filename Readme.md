@@ -130,7 +130,7 @@ const umashankar = {
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 ## 🏆 GitHub Trophies
 
