@@ -120,15 +120,13 @@ const umashankar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umashankar12345&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umashankar12345&theme=tokyonight&hide_border=true&show_icons=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umashankar12345&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Umashankar12345&theme=tokyonight&hide_border=true&cache_seconds=3600" width="70%"/>
 </div>
-
----
 
 
 ## 🏆 GitHub Trophies
