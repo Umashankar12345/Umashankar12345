@@ -117,21 +117,6 @@ const umashankar = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umashankar12345&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umashankar12345&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Umashankar12345&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -143,11 +128,16 @@ const umashankar = {
   <img src="https://streak-stats.demolab.com?user=Umashankar12345&theme=tokyonight&hide_border=true&cache_seconds=3600" width="70%"/>
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Umashankar12345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
+
+
+
 ## 📈 Contribution Graph
 
 <div align="center">
