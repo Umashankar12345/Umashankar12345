@@ -132,10 +132,11 @@ const umashankar = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Umashankar12345&theme=algolia&no-frame=true&margin-w=15" />
-</div>
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Umashankar12345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
 
 
 ## 📈 Contribution Graph
