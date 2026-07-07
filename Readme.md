@@ -108,7 +108,7 @@ const umashankar = {
 
 | 🖼️ | Project | Description | Tech | Live |
 |---|---------|-------------|------|------|
-| 🏥 | [**DoctorAppointment 2.0**](https://github.com/Umashankar12345/DoctorAppoinment2.0) | Online doctor appointment booking with smart slot management | `JS` `Node.js` `Express` `MongoDB` | 🔧 Soon |
+| 🏥 | [**DoctorAppointment 2.0**](https://github.com/Umashankar12345/DoctorAppoinment2.0) | Online doctor appointment booking with smart slot management | `JS` `Node.js` `Express` `MongoDB` | [🔗 Live] (https://doctor-appoinment2-0.vercel.app/). |
 | 🗺️ | [**Smart Road Trip**](https://github.com/Umashankar12345/Smart-Road-Trip-plain) | Calculates distance & travel time using Google Maps API | `JavaScript` `Maps API` | [🔗 Live](https://smart-road-trip-plain-frontend.vercel.app/) |
 | 🎬 | [**LiveMovie**](https://github.com/Umashankar12345/livemovie) | Online movie ticket booking system with seat selection | `JavaScript` `Node.js` | 🔧 Soon |
 | 🌾 | [**FarmerSupport**](https://github.com/Umashankar12345/Farmer-Support) | Platform connecting farmers to resources & government support | `JavaScript` `HTML/CSS` | [🔗 Live](https://farmer-support-beta.vercel.app/) |
